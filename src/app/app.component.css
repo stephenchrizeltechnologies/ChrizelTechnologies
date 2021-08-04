@@ -1,14 +1,9 @@
+
 img {
   border-radius: 40px;
-  padding: 12px;
-  width: 300px;
   display: block;
   margin-left: auto;
   margin-right: 10%;
-}
-
-img:hover {
-  box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
 }
 p {
   font-family: "Times New Roman", Times, serif;
