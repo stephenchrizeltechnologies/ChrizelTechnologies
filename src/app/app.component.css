@@ -1,4 +1,11 @@
+.example-card {
+  max-width: 400px;
+}
 
+.example-header-image {
+  background-image: url('https://stackblitz.com/files/angular-ivy-6yj59k/github/stephenchrizeltechnologies/ChrizelTechnologies/master/src/app/assert/img/a6e89225-b415-4da6-b3bc-67e477f6f368.jpg');
+  background-size: cover;
+}
 img {
   border-radius: 40px;
   display: block;
